@@ -1,11 +1,11 @@
 {
-    "name": "om_v3",
-    "short_name": "om_v3",
+    "name": "70-371: The Game",
+    "short_name": "70-371",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "Operations management practice problems for 70-371.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
